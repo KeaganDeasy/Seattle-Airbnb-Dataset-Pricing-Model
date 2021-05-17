@@ -16,5 +16,6 @@ Key analysis is contained with in "Pricing Model of the Seattle Airbnb Dataset"
 This project is not meant to be interactive. This is a prrof of concept for developing a pricing model using data engineering and RandomForestRegression
 
 ## 5. Licensing, Authors, Acknowledgements, etc.
-Referenced some very useful posts from stackedoverflow
- - https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas
+ - Written by Keagan Deasy
+ - Kaggle - https://www.kaggle.com/airbnb/seattle/data
+ - Referenced some very useful posts from stackedoverflow - https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas
